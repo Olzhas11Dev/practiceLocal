@@ -1,0 +1,17 @@
+.allItems {
+  display: flex;
+}
+
+.item {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border: grey 1px solid;
+}
+
+.cart {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
